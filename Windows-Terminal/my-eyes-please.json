@@ -1,0 +1,21 @@
+{
+    "name": "My Eyes Please!",
+    "background": "#14161a",
+    "foreground": "#abb2bf",
+    "black": "#21252b",
+    "brightBlack": "#21252b",
+    "blue": "#5298d1",
+    "brightBlue": "#5298d1",
+    "cyan": "#4ba5b6",
+    "brightCyan": "#4ba5b6",
+    "green": "#a0ca60",
+    "brightGreen": "#a0ca60",
+    "purple": "#a573c6",
+    "brightPurple": "#a573c6",
+    "red": "#d35b6f",
+    "brightRed": "#d35b6f",
+    "white": "#abb2bf",
+    "brightWhite": "#abb2bf",
+    "yellow": "#f0cc62",
+    "brightYellow": "#f0cc62"
+}
